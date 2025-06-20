@@ -16,9 +16,5 @@ A basic login system built using Java Swing with a background image.
 - GUI layout design
 - Event handling
 - Using images in Java apps
-
-## 📸 Screenshot
-*(Optional: Upload screenshot and paste link here)*
-
 ## 👩‍💻 Author
 **S. Nivetha**
